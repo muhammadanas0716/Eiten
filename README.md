@@ -90,9 +90,4 @@ We are happy to share this toolkit with the trading community and hope that peop
 Special Thanks
 Special thanks to Scott Rome's blog. The eigen portfolios and minimum variance portfolio concepts came from his blog posts. The code for filtering eigen values of the covariance matrix was also mostly obtained from one of his posts.
 
-License
-License: GPL v3
-
-A product by Tradytics
-
-Copyright (c) 2020-present, Tradytics.com
+Copyright (c) 2021-present, Tradytics.com
