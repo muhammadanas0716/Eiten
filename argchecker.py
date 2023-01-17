@@ -4,7 +4,7 @@ class ArgChecker:
     """
 
     def __init__(self, args):
-        print("Checking arguments...")
+        print("Checking Arguments; Scanning...")
         self.check_arguments(args)
 
     def check_arguments(self, args):
